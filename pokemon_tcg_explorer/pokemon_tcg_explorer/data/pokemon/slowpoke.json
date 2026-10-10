@@ -1,0 +1,11 @@
+{
+  "name": "Slowpoke",
+  "dex_number": 79,
+  "types": ["Agua", "Psíquico"],
+  "description": "Pokémon lento y despreocupado. En el TCG suele ser una carta Básica de pocos PS con ataques sencillos y de bajo costo, útil para abrir partidas y evolucionar a Slowbro o Slowking.",
+  "variants": [
+    {"name": "Slowpoke (Jungle)", "set_name": "Jungle", "series": "Base", "rarity": "Común", "finish": "Normal", "year": 1999, "notes": "Primera era del TCG en inglés.", "verified": false},
+    {"name": "Slowpoke (Neo Genesis)", "set_name": "Neo Genesis", "series": "Neo", "rarity": "Común", "finish": "Normal", "year": 2000, "verified": false},
+    {"name": "Slowpoke (Reverse Holo)", "set_name": "Varios sets modernos", "series": "Sword & Shield / Scarlet & Violet", "rarity": "Común", "finish": "Reverse Holo", "notes": "Disponible como reverse holo en sets modernos.", "verified": false}
+  ]
+}

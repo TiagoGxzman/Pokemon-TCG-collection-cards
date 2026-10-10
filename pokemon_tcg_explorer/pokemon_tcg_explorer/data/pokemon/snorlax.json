@@ -1,0 +1,11 @@
+{
+  "name": "Snorlax",
+  "dex_number": 143,
+  "types": ["Normal"],
+  "description": "Pokémon enorme con muchos PS y ataques de alto daño. En el TCG destaca como carta resistente: aguanta golpes y devuelve daño fuerte, aunque algunas versiones tienen costo de energía elevado.",
+  "variants": [
+    {"name": "Snorlax (Jungle Holo)", "set_name": "Jungle", "series": "Base", "number": "11/64", "rarity": "Holo Rare", "finish": "Holo", "year": 1999, "notes": "Una de las cartas icónicas de la era clásica.", "verified": false},
+    {"name": "Snorlax (Reverse Holo)", "set_name": "Varios sets modernos", "series": "Sword & Shield / Scarlet & Violet", "rarity": "Rara", "finish": "Reverse Holo", "verified": false},
+    {"name": "Snorlax V / VMAX", "set_name": "Sword & Shield", "series": "Sword & Shield", "rarity": "Ultra Rare", "finish": "Holo (V/VMAX)", "notes": "Versiones V y VMAX; validar sets exactos.", "verified": false}
+  ]
+}
